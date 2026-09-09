@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner Cosmic Neon -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:1A0033,100:9D4EDD&height=200&section=header&text=ARTUR&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20%E2%80%A2%20Criador%20%E2%80%A2%20Solucionador%20de%20Problemas&descAlignY=62&descColor=e0aaff" width="100%" alt="Header Banner" />
+<!-- Banner Cosmic Neon (Alto Contraste & Saturação) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:000000,45:6A00F4,75:A800FF,100:D800FF&height=200&section=header&text=ARTUR&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20%E2%80%A2%20Criador%20%E2%80%A2%20Solucionador%20de%20Problemas&descAlignY=62&descColor=ffffff" width="100%" alt="Header Banner" />
 
   <br><br>
 
