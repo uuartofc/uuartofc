@@ -36,7 +36,6 @@
 > **"Acredito no código que não apenas funciona, mas que entrega uma experiência marcante."**
 
 * **Desenvolvimento de Software:** Foco em arquitetura limpa, código sustentável e sistemas eficientes.
-* **Experiências Interativas & 3D:** União entre programação, design visual, modelagem e atmosfera.
 * **Inteligência Artificial & Automação:** Exploração de agentes inteligentes e processos automatizados.
 * **Evolução Contínua:** Aprendizado focado em engenharia de software e resolução de problemas complexos.
 * **Localização:** Brasil 🇧🇷
@@ -51,7 +50,6 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D800FF" />
   <img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=D800FF" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D800FF" />
-  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=D800FF" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=D800FF" />
 </div>
 
